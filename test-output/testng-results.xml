@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3654" started-at="2018-02-21T18:35:39Z" finished-at="2018-02-21T18:35:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3654" started-at="2018-02-21T18:35:39Z" finished-at="2018-02-21T18:35:43Z">
+      <class name="getapi.GetApiTest">
+        <test-method status="PASS" signature="getprop()[pri:0, instance:getapi.GetApiTest@66d2e7d9]" name="getprop" is-config="true" duration-ms="38" started-at="2018-02-21T13:35:39Z" finished-at="2018-02-21T13:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getprop -->
+        <test-method status="PASS" signature="getapi()[pri:0, instance:getapi.GetApiTest@66d2e7d9]" name="getapi" duration-ms="3569" started-at="2018-02-21T13:35:39Z" finished-at="2018-02-21T13:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getapi -->
+      </class> <!-- getapi.GetApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
